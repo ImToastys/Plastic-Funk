@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="glowswitch.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glowswitch0000" x="0" y="0" width="2560" height="900"/>
+	<SubTexture name="glowswitch0001" x="0" y="0" width="2560" height="900"/>
+	<SubTexture name="glowswitch0002" x="0" y="0" width="2560" height="900"/>
+	<SubTexture name="glowswitch0003" x="0" y="0" width="2560" height="900"/>
+	<SubTexture name="glowswitch0004" x="0" y="0" width="2560" height="900"/>
+	<SubTexture name="glowswitch0005" x="0" y="0" width="2560" height="900"/>
+	<SubTexture name="glowswitch0006" x="0" y="0" width="2560" height="900"/>
+	<SubTexture name="glowswitch0007" x="0" y="0" width="2560" height="900"/>
+	<SubTexture name="glowswitch0008" x="0" y="0" width="2560" height="900"/>
+	<SubTexture name="glowswitch0009" x="0" y="0" width="2560" height="900"/>
+	<SubTexture name="glowswitch0010" x="0" y="900" width="2560" height="900"/>
+	<SubTexture name="glowswitch0011" x="0" y="900" width="2560" height="900"/>
+	<SubTexture name="glowswitch0012" x="0" y="900" width="2560" height="900"/>
+	<SubTexture name="glowswitch0013" x="0" y="900" width="2560" height="900"/>
+	<SubTexture name="glowswitch0014" x="0" y="900" width="2560" height="900"/>
+	<SubTexture name="glowswitch0015" x="0" y="900" width="2560" height="900"/>
+	<SubTexture name="glowswitch0016" x="0" y="900" width="2560" height="900"/>
+	<SubTexture name="glowswitch0017" x="0" y="900" width="2560" height="900"/>
+	<SubTexture name="glowswitch0018" x="0" y="900" width="2560" height="900"/>
+	<SubTexture name="glowswitch0019" x="0" y="900" width="2560" height="900"/>
+</TextureAtlas>

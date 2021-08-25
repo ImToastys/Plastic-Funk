@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spotlightswitch.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spotlightswitch0000" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0001" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0002" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0003" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0004" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0005" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0006" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0007" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0008" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0009" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0010" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0011" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0012" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0013" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0014" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0015" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0016" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0017" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0018" x="0" y="1400" width="2560" height="1400"/>
+	<SubTexture name="spotlightswitch0019" x="0" y="1400" width="2560" height="1400"/>
+</TextureAtlas>
